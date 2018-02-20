@@ -13,8 +13,8 @@ Where
 * ```--process``` demo type. It can be either ```image``` for image demo, ```webcam``` for webcam demo
 or ```video``` for video demo. 
 * ```--path``` is full path to image. 
-* ```--json_path``` path to model json file
-* ```--weights``` path to weights of model file
+* ```--json_path``` path to model's json file
+* ```--weights``` path to weights of model(h5 file)
 
 ### video demo
 ```
