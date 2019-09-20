@@ -1,0 +1,17 @@
+{ "facial_image_size" : {
+        "image_height" : 32,
+        "image_width" : 24
+        },
+  "eye_image_size" : {
+        "image_height" : 32,
+        "image_width" : 32
+        },
+  "grey_scale" : {
+        "is_grey_scale" : "grey_scale",
+        "is_RGB" : "RGB"
+        },
+  "network_type" : {
+        "single_input" : "si",
+        "multi_input" :  "mi"
+        }       
+}

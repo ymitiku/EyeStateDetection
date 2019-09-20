@@ -1,8 +1,6 @@
 # EyeStateDetection
 Demo project to detect if eye is open or closed
 
-
-
 ## How to run demo
 ### Image demo
 
@@ -23,7 +21,7 @@ python -m demo  --process video --path /path-to-video/video-file --json_path /pa
 Where ```--path``` is full path to video.
 ### web demo
 ```
-python -m demo demo --process webcam --json_path /path/to-model/json/file --weights /path/to/weights of the model
+python -m demo --process webcam --json_path /path/to-model/json/file --weights /path/to/weights of the model
 ```
 
 ### Dependancies
